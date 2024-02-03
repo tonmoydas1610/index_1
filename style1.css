@@ -44,7 +44,7 @@ h2::before{
     margin-top: 20px;
 }
  /***** End common css *****/
-/***** Section header *****/
+
 #header_section{
     background: #fdf7ff;
     width: 100%;
@@ -92,10 +92,8 @@ nav{
     justify-content: center;
 }
 
-/***** End Section header *****/
 
  
-/*==============header second Section================== *****/ 
 .header_content_section{
     justify-content: space-between;
     align-items: center;
@@ -118,10 +116,9 @@ nav{
     line-height: 30px;
     font-weight: 700;
 }
- /* /second  Section End/ */
 
 
-/*Categories Section *****/
+
 
 #Categories{
     width: 100%;
@@ -189,4 +186,3 @@ nav{
 }
 
 
-/*Categories End Section *****/
